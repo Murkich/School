@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="289.426602441824" y="139.54019911386007">com.Golub.school.service.CourseService</node>
+    <node x="-14.629521266009036" y="320.99137291437717">com.Golub.school.service.UserService</node>
+    <node x="615.0231819898933" y="5.4809545251713985">com.Golub.school.service.CardService</node>
+    <node x="621.0292992642732" y="147.9205653188001">com.Golub.school.service.AdminService</node>
+    <node x="501.4934973854546" y="395.9573936303456">com.Golub.school.service.MentorService</node>
+    <node x="-71.34398227980377" y="-14.697637853160572">com.Golub.school.service.StudentService</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.6069440459110474" showDependencies="false" x="494.6538329708773" y="349.4775848619516" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

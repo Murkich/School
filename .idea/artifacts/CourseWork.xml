@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CourseWork">
+    <output-path>$PROJECT_DIR$/out/artifacts/CourseWork</output-path>
+    <root id="archive" name="CourseWork.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="School/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="School/web/Web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

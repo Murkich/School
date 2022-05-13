@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="124.0" y="138.0">com.Golub.school.repository.MentorRepository</node>
+    <node x="-63.5" y="62.5">com.Golub.school.repository.CourseRepository</node>
+    <node x="126.0" y="62.5">com.Golub.school.repository.AdminRepository</node>
+    <node x="132.5" y="-15.0">com.Golub.school.repository.CardRepository</node>
+    <node x="-87.5" y="-15.0">com.Golub.school.repository.StudentsRepository</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="353.0" y="90.5" />
+  <SelectedNodes>
+    <node>com.Golub.school.repository.StudentsRepository</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
